@@ -7,7 +7,7 @@ Benchmarks for the classical variants of the RMP (Basic RMP, delta-approx. RMP, 
 
 Benchmarks, that include business-driven aspects like the minimalization of compliance constraints or licence costs can be found in "RMP + Compliance Constraints Benchmarks" resp. "RMP + License Costs Benchmarks".
 
-Furthermore, two real-word benchmarks, based on data data from two German enterprises, can be found in "".
+Furthermore, two real-word benchmarks, based on data data from two German enterprises, can be found in "Real-World Benchmarks".
 
 The provission of further Benchmarks preferably taken from real-world use cases or covering other variants of the RMP is strongly encouraged. 
 These can be submitted to: 
