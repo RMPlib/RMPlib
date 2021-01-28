@@ -9,6 +9,6 @@ Benchmarks, that include business-driven aspects like the minimalization of comp
 
 Furthermore, two real-word benchmarks, based on data data from two German enterprises, can be found in "Real-World Benchmarks".
 
-The provission of further Benchmarks preferably taken from real-world use cases or covering other variants of the RMP is strongly encouraged. 
+The provission of further Benchmarks preferably taken from real-world use cases or Benchmarks covering other variants of the RMP is strongly encouraged. 
 These can be submitted to: 
 
