@@ -4,10 +4,10 @@ The Number of Users and Permissions, the Ocuppancy Rate, an Upper Bound on Roles
 They benchmarks grouped into three different categories depending on ther size. 
 
 Small           |  #Users  |  #PRMS  |  Occupany  |  RUB*  |  BEST  |    
-small_1.rmp     |      50  |     50  |            |        |        |
-small_2.rmp     |      50  |    100  |            |        |        |
-small_3.rmp     |     100  |    100  |            |        |        |
-small_4.rmp     |     100  |    100  |            |        |        |
+small_1.rmp     |      50  |     50  |    24,00%  |   25   |    24  |
+small_2.rmp     |      50  |    100  |    43,28%  |   25   |    29  |
+small_3.rmp     |     100  |    100  |    27,38%  |   25   |    31  |
+small_4.rmp     |     100  |    100  |    38,68%  |   25   |    34  |
 small_5.rmp     |     100  |    200  |            |        |        |
 small_6.rmp     |     100  |    200  |            |        |        |
 
