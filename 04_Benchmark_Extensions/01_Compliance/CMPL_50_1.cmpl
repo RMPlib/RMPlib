@@ -1,0 +1,76 @@
+# Name: CMPL_50_1.cmpl
+#
+# This dataset was provided by xxxxxx.
+#
+# The first part of the data-section specifies the weight values 
+#     of each severeness class SC.
+#
+# The second part of the data-section lists the SoD-conflicts.
+#     Each line respresents one SoD-conflict. The first value SoDx
+#     gives the ID of the SoD-conflict. The second value SCx
+#     specifies the corresponding severeness class. The following 
+#     values px correspond to the permission set of the SoD-conflict.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of compliance conflicts: 50
+# Number of permissions: 50
+# Number of severeness classes: 5
+
+
+SC0	0
+SC1	1
+SC2	4
+SC3	8
+SC4	20
+
+SoD0	SC0	p5	p13
+SoD1	SC0	p7	p33	p41
+SoD2	SC1	p3	p32
+SoD3	SC1	p3	p42	p47
+SoD4	SC1	p8	p48
+SoD5	SC1	p2	p11	p25
+SoD6	SC1	p2	p3	p22	p35	p42	p45
+SoD7	SC1	p0	p15	p24	p34	p40	p48
+SoD8	SC1	p38	p40
+SoD9	SC1	p5	p6	p9	p24	p40
+SoD10	SC2	p3
+SoD11	SC2	p12
+SoD12	SC2	p3	p5	p30
+SoD13	SC2	p0	p11	p36	p39
+SoD14	SC2	p9	p20	p27	p37	p41
+SoD15	SC2	p3	p9	p10	p31	p33
+SoD16	SC2	p4	p15	p23	p27	p38	p49
+SoD17	SC2	p3	p5	p17	p20	p23	p29
+SoD18	SC2	p3	p14	p24	p25	p31	p46
+SoD19	SC2	p1	p4	p6	p8	p30	p35
+SoD20	SC2	p26	p27	p36
+SoD21	SC2	p3	p20	p22	p28
+SoD22	SC2	p5	p7	p19	p27	p29	p39	p46	
+SoD23	SC2	p0	p5	p28	p30	p37	p40	p44	p47
+SoD24	SC3	p18
+SoD25	SC3	p29
+SoD26	SC3	p2	p11
+SoD27	SC3	p14
+SoD28	SC3	p25	p42
+SoD29	SC3	p3	p24	p33	p46
+SoD30	SC3	p36	p39
+SoD31	SC3	p3	p6	p17	p33	p35
+SoD32	SC3	p0	p43
+SoD33	SC3	p13	p20	p21	p34	p35	p42
+SoD34	SC3	p4	p15	p24
+SoD35	SC3	p2	p31	p41	p42	p43	p45
+SoD36	SC3	p4	p5	p7	p13	p41	p45
+SoD37	SC3	p22
+SoD38	SC3	p7	p22	p32	p43	p45	p47
+SoD39	SC3	p14	p21	p25	p33	p40	p43	p45	
+SoD40	SC3	p11	p46
+SoD41	SC3	p10	p13	p19	p27	p32	p34	p35	
+SoD42	SC3	p0	p2	p11	p25	p36	p40	p45	
+SoD43	SC3	p3	p12	p15	p17	p19	p40	p43	p47
+SoD44	SC3	p2	p6	p11
+SoD45	SC4	p23	p47
+SoD46	SC4	p0	p29	p30	p40	p48
+SoD47	SC4	p12	p15	p16	p28	p41	p46
+SoD48	SC4	p2	p5	p24	p25	p28	p41
+SoD49	SC4	p5	p7	p34	p40	p43	p48
