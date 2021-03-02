@@ -1,0 +1,66 @@
+# Name: PLAIN_small_01.rmp
+#
+# This dataset was provided by xxxxxx.
+#
+# The data-section lists all users and their permissions.
+#     Each line respresents one user. The first value ux gives the ID 
+#     of the considered user. The following values px correspond to 
+#     the permission set of that user.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of users: 50
+# Number of permissions: 50
+# Underlying number of roles used for creating this instance: 25
+
+
+u0	p1	p4	p9	p14	p19	p28	p29	p30	p37	p45	p49
+u1	p0	p1	p4	p6	p7	p9	p10	p11	p13	p14	p26	p32	p37	p43	p45	p49
+u2	p17	p35
+u3	p5	p11	p14	p15	p18	p19	p22	p23	p33	p36	p38	p39	p42	p45	p46	p47	p49
+u4	p1	p19	p28	p29	p30	p37
+u5	p0	p1	p7	p17	p35	p38	p41	p43	p45
+u6	p0	p11	p14	p15	p20	p22	p27	p32	p33	p36	p40	p42	p44	p45	p46	p47
+u7	p0	p13	p20	p27	p32	p40	p44
+u8	p0	p1	p8	p9	p13	p17	p20	p22	p23	p26	p27	p32	p33	p37	p40	p44	p46	p47	p48
+u9	p0	p4	p6	p9	p12	p14	p20	p27	p29	p32	p34	p35	p37	p40	p44	p45	p49
+u10	p4	p13	p23	p33
+u11	p0	p1	p6	p8	p9	p12	p13	p17	p20	p22	p26	p27	p29	p32	p33	p34	p35	p37	p40	p44	p46	p47	p48
+u12	p0	p4	p6	p7	p9	p11	p12	p14	p15	p17	p22	p29	p32	p33	p34	p35	p36	p37	p42	p43	p45	p46	p47	p49
+u13
+u14	p1	p4	p9	p11	p12	p13	p14	p15	p27	p30	p32	p33
+u15	p1	p5	p9	p10	p11	p20	p30	p32	p38	p43	p45
+u16	p33	p37	p47	p48
+u17	p0	p1	p6	p7	p10	p11	p12	p13	p14	p15	p17	p27	p28	p30	p32	p33	p34	p37	p43	p47	p48
+u18	p4	p6	p10	p13	p26	p27
+u19	p1	p4	p5	p12	p13	p19	p23	p28	p29	p30	p33	p37	p49
+u20	p1	p10	p15	p34
+u21	p1	p9	p11	p17	p32	p35
+u22	p4	p5	p10	p11	p13	p14	p15	p20	p22	p23	p30	p33	p36	p42	p43	p45	p46	p47
+u23	p0	p4	p7	p13	p23	p33	p43
+u24	p4	p12	p18	p33	p38	p39
+u25	p0	p41
+u26	p0	p1	p6	p12	p19	p28	p29	p30	p32	p34	p35	p37
+u27	p5	p19	p23	p49
+u28	p1	p18	p19	p28	p29	p30	p37	p38	p39
+u29	p1	p8	p9	p13	p17	p22	p23	p26	p46
+u30	p6	p17	p23	p28	p48
+u31	p23
+u32	p0	p1	p4	p6	p8	p9	p10	p11	p12	p13	p16	p17	p18	p22	p23	p26	p28	p29	p32	p33	p34	p35	p38	p39	p45	p46	p48
+u33	p0	p6	p17	p20	p27	p28	p32	p35	p40	p44	p48
+u34	p0	p6	p7	p12	p17	p18	p20	p27	p28	p29	p32	p34	p35	p38	p39	p40	p43	p44	p48
+u35	p1	p5	p10	p11	p12	p13	p14	p15	p20	p27	p30	p32	p34	p43
+u36	p0	p1	p6	p10	p12	p15	p29	p32	p34	p35	p41
+u37	p1	p4	p8	p9	p13	p14	p17	p18	p22	p26	p35	p37	p38	p39	p45	p46	p49
+u38	p0	p4	p6	p7	p10	p11	p12	p13	p14	p15	p20	p22	p26	p27	p30	p32	p33	p36	p37	p40	p42	p43	p44	p45	p46	p47	p48
+u39	p0	p6	p11	p14	p15	p17	p20	p22	p27	p28	p32	p33	p36	p40	p42	p44	p45	p46	p47	p48
+u40	p6	p17	p28	p48
+u41	p11	p14	p15	p22	p33	p36	p37	p42	p45	p46	p47	p48
+u42	p4	p6	p10	p12	p13	p17	p26	p33	p35	p37	p47	p48
+u43	p0	p1	p4	p5	p7	p10	p13	p15	p19	p23	p27	p33	p34	p43	p49
+u44	p0	p1	p5	p6	p9	p10	p16	p19	p22	p23	p28	p29	p30	p37	p41	p49
+u45	p1	p4	p6	p8	p9	p10	p11	p12	p13	p14	p15	p17	p22	p26	p27	p30	p32	p46
+u46	p1	p4	p6	p9	p10	p11	p13	p14	p17	p18	p26	p32	p35	p37	p38	p39	p45	p49
+u47	p1	p9	p11	p18	p32	p38	p39
+u48	p0	p4	p6	p12	p20	p27	p29	p32	p33	p34	p35	p40	p44
+u49	p1	p4	p9	p11	p14	p15	p18	p22	p33	p36	p37	p38	p39	p42	p45	p46	p47	p49
