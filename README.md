@@ -1,8 +1,8 @@
 # RMPlib
 
-This repository contains a library of benchmarks for the Role Mining Problem. 
+This repository contains a library of benchmarks for the Role Mining Problem (RMP). 
  
-RMPlib contains synthetic and real-world benchmark instances. 
+_RMPlib_ contains synthetic and real-world benchmark instances. 
 
 The provision of further benchmark instances, preferably taken from real-worls use cases, or instances covering other variants of RMP is strongly encouraged.
 
@@ -17,5 +17,5 @@ For further information...
 This work is currently undergoing a double-blind review process. Therefore, all information linking to persons or organizations are anonymized at present, but will be updated at the end of the review process.
 ***
 **!!! Work in progress !!!**   
-Currently, all folders of the RMPlib contain one example file. The inclusion of all other benchmark instances resp. extension files is currently being prepared and planned for 03/03/2021.
+Currently, all folders of _RMPlib_ contain one example file. The inclusion of all other benchmark instances resp. extension files is currently being prepared and planned for 03/03/2021.
 ***
