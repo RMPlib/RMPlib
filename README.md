@@ -8,7 +8,7 @@ The provision of further benchmark instances, preferably taken from real-worls u
 
 
 For further information, 
-- pease read the documentation in the Wiki at https://github.com/RMPlib/RMPlib/wiki
+- please read the documentation in the Wiki at https://github.com/RMPlib/RMPlib/wiki
 - or the following publication: xxxxxx   
    
    
