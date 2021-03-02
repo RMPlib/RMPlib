@@ -11,6 +11,8 @@ For further information,
 - pease read the documentation in the Wiki at https://github.com/RMPlib/RMPlib/wiki
 - or the following publication: xxxxxx
 
+***
 
 This work is currently undergoing a double-blind review process. Therefore, all information linking to persons or organizations are anonymized at present, but will be updated at the end of the review process.
 
+***
