@@ -1,0 +1,126 @@
+# Name: CMPL_200_2.cmpl
+#
+# This dataset was provided by xxxxxx.
+#
+# The first part of the data-section specifies the weight values 
+#     of each severeness class SC.
+#
+# The second part of the data-section lists the SoD-conflicts.
+#     Each line respresents one SoD-conflict. The first value SoDx
+#     gives the ID of the SoD-conflict. The second value SCx
+#     specifies the corresponding severeness class. The following 
+#     values px correspond to the permission set of the SoD-conflict.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of compliance conflicts: 100
+# Number of permissions: 200
+# Number of severeness classes: 5
+
+
+SC0	0
+SC1	1
+SC2	4
+SC3	8
+SC4	20
+
+SoD0	SC0	p160
+SoD1	SC0	p2	p73
+SoD2	SC0	p39	p90	p161
+SoD3	SC0	p54	p134	p178	p192
+SoD4	SC0	p57	p85	p120	p156	p159
+SoD5	SC0	p67	p118	p148	p189	p194	p196
+SoD6	SC0	p45	p58	p65	p114	p153	p158	p186
+SoD7	SC0	p25	p56	p81	p110	p145	p187	p194	p196
+SoD8	SC0	p17	p68	p75	p89	p138	p142	p151	p152	p180	
+SoD9	SC0	p4	p21	p30	p35	p47	p51	p57	p59	p121	p133
+SoD10	SC1	p117
+SoD11	SC1	p0	p82
+SoD12	SC1	p6	p53	p119
+SoD13	SC1	p54	p166	p176	p179
+SoD14	SC1	p43	p59	p119	p138	p168
+SoD15	SC1	p39	p53	p67	p113	p142	p191
+SoD16	SC1	p59	p71	p80	p113	p123	p186	p190
+SoD17	SC1	p22	p37	p87	p93	p103	p111	p135	p154
+SoD18	SC1	p7	p54	p57	p68	p83	p106	p110	p137	p185	
+SoD19	SC1	p37	p104	p109	p114	p118	p122	p137	p154	p164	p178
+SoD20	SC2	p49
+SoD21	SC2	p133	p170
+SoD22	SC2	p16	p24	p120
+SoD23	SC2	p16	p41	p185	p194
+SoD24	SC2	p9	p67	p131	p135	p151
+SoD25	SC2	p20	p22	p43	p91	p103	p147
+SoD26	SC2	p56	p65	p121	p138	p158	p166	p190
+SoD27	SC2	p29	p44	p67	p140	p143	p151	p168	p192
+SoD28	SC2	p13	p14	p44	p58	p59	p77	p83	p135	p187	
+SoD29	SC2	p1	p11	p40	p60	p89	p124	p145	p162	p172	p186
+SoD30	SC3	p94
+SoD31	SC3	p153	p176
+SoD32	SC3	p22	p122	p146
+SoD33	SC3	p31	p52	p143	p172
+SoD34	SC3	p11	p38	p91	p131	p170
+SoD35	SC3	p25	p43	p46	p48	p55	p83
+SoD36	SC3	p28	p34	p39	p52	p74	p113	p130
+SoD37	SC3	p12	p17	p31	p32	p34	p132	p140	p171
+SoD38	SC3	p26	p74	p105	p117	p148	p158	p164	p176	p181	
+SoD39	SC3	p9	p54	p58	p76	p138	p161	p166	p171	p180	p197
+SoD40	SC4	p8
+SoD41	SC4	p70	p174
+SoD42	SC4	p81	p92	p110
+SoD43	SC4	p47	p87	p95	p133
+SoD44	SC4	p19	p64	p112	p183	p186
+SoD45	SC4	p68	p107	p111	p123	p127	p189
+SoD46	SC4	p23	p67	p94	p100	p133	p165	p198
+SoD47	SC4	p11	p25	p45	p55	p90	p141	p153	p163
+SoD48	SC4	p48	p50	p68	p72	p74	p112	p152	p168	p190	
+SoD49	SC4	p6	p41	p50	p55	p74	p92	p151	p181	p194	p196
+SoD50	SC0	p126
+SoD51	SC0	p70	p91
+SoD52	SC0	p3	p135	p140
+SoD53	SC0	p3	p100	p102	p151
+SoD54	SC0	p3	p56	p135	p155	p164
+SoD55	SC0	p15	p109	p110	p113	p137	p150
+SoD56	SC0	p1	p51	p60	p124	p129	p155	p177
+SoD57	SC0	p10	p130	p131	p138	p164	p180	p184	p191
+SoD58	SC0	p5	p42	p58	p64	p71	p135	p160	p168	p188	
+SoD59	SC0	p20	p44	p82	p101	p147	p163	p178	p179	p182	p192
+SoD60	SC1	p167
+SoD61	SC1	p55	p177
+SoD62	SC1	p5	p27	p195
+SoD63	SC1	p14	p69	p155	p162
+SoD64	SC1	p32	p52	p143	p145	p189
+SoD65	SC1	p87	p105	p130	p135	p159	p170
+SoD66	SC1	p2	p74	p125	p140	p167	p168	p195
+SoD67	SC1	p2	p4	p76	p110	p124	p132	p133	p165
+SoD68	SC1	p13	p66	p93	p106	p125	p128	p170	p176	p186	
+SoD69	SC1	p23	p30	p53	p83	p95	p106	p182	p185	p188	p191
+SoD70	SC2	p33
+SoD71	SC2	p14	p61
+SoD72	SC2	p117	p158	p182
+SoD73	SC2	p2	p86	p121	p125
+SoD74	SC2	p29	p82	p102	p113	p173
+SoD75	SC2	p36	p75	p122	p129	p140	p182
+SoD76	SC2	p60	p64	p89	p107	p133	p145	p176
+SoD77	SC2	p2	p22	p25	p58	p73	p100	p113	p187
+SoD78	SC2	p26	p47	p49	p114	p147	p156	p178	p186	p196	
+SoD79	SC2	p6	p17	p48	p78	p82	p109	p137	p141	p161	p176
+SoD80	SC3	p175
+SoD81	SC3	p65	p113
+SoD82	SC3	p14	p139	p179
+SoD83	SC3	p59	p106	p108	p154
+SoD84	SC3	p7	p13	p14	p52	p189
+SoD85	SC3	p22	p102	p141	p146	p155	p177
+SoD86	SC3	p38	p47	p57	p62	p77	p108	p198
+SoD87	SC3	p41	p104	p107	p126	p133	p147	p178	p184
+SoD88	SC3	p37	p62	p76	p94	p98	p103	p124	p131	p162	
+SoD89	SC3	p6	p13	p42	p86	p103	p136	p145	p187	p188	p195
+SoD90	SC4	p88
+SoD91	SC4	p47	p52
+SoD92	SC4	p6	p61	p198
+SoD93	SC4	p18	p19	p123	p180
+SoD94	SC4	p49	p70	p161	p164	p166
+SoD95	SC4	p3	p49	p71	p97	p121	p175
+SoD96	SC4	p41	p48	p75	p81	p95	p155	p191
+SoD97	SC4	p12	p17	p25	p57	p104	p132	p143	p147
+SoD98	SC4	p5	p24	p34	p36	p47	p72	p81	p93	p95	
+SoD99	SC4	p7	p9	p15	p23	p38	p60	p107	p117	p141	p194
