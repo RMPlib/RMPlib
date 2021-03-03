@@ -1,0 +1,72 @@
+# Name: LIC_50_1.lic
+#
+# This dataset was provided by xxxxxx.
+#
+# The first part of the data-section specifies the price values 
+#     of each license costs category LC.
+#
+# The second part of the data-section lists all permissions px
+#     and the corresponding licence costs category LCx.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of permissions: 50
+# Number of license costs categories: 5
+
+
+LC0	0
+LC1	400
+LC2	1800
+LC3	3200
+LC4	6000
+
+p0	LC2
+p1	LC0
+p2	LC1
+p3	LC0
+p4	LC0
+p5	LC4
+p6	LC1
+p7	LC2
+p8	LC0
+p9	LC1
+p10	LC1
+p11	LC0
+p12	LC1
+p13	LC1
+p14	LC1
+p15	LC0
+p16	LC2
+p17	LC3
+p18	LC0
+p19	LC0
+p20	LC0
+p21	LC1
+p22	LC1
+p23	LC0
+p24	LC0
+p25	LC1
+p26	LC1
+p27	LC3
+p28	LC0
+p29	LC0
+p30	LC3
+p31	LC1
+p32	LC1
+p33	LC0
+p34	LC0
+p35	LC2
+p36	LC1
+p37	LC1
+p38	LC0
+p39	LC0
+p40	LC1
+p41	LC2
+p42	LC4
+p43	LC1
+p44	LC1
+p45	LC0
+p46	LC0
+p47	LC1
+p48	LC0
+p49	LC1

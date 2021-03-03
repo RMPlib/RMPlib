@@ -1,0 +1,122 @@
+# Name: LIC_100_1.lic
+#
+# This dataset was provided by xxxxxx.
+#
+# The first part of the data-section specifies the price values 
+#     of each license costs category LC.
+#
+# The second part of the data-section lists all permissions px
+#     and the corresponding licence costs category LCx.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of permissions: 100
+# Number of license costs categories: 5
+
+
+LC0	0
+LC1	400
+LC2	1800
+LC3	3200
+LC4	6000
+
+p0	LC0
+p1	LC1
+p2	LC2
+p3	LC1
+p4	LC1
+p5	LC1
+p6	LC0
+p7	LC1
+p8	LC2
+p9	LC0
+p10	LC0
+p11	LC2
+p12	LC0
+p13	LC0
+p14	LC0
+p15	LC0
+p16	LC0
+p17	LC1
+p18	LC2
+p19	LC1
+p20	LC0
+p21	LC0
+p22	LC0
+p23	LC2
+p24	LC1
+p25	LC1
+p26	LC0
+p27	LC1
+p28	LC2
+p29	LC0
+p30	LC4
+p31	LC0
+p32	LC1
+p33	LC4
+p34	LC0
+p35	LC1
+p36	LC0
+p37	LC0
+p38	LC1
+p39	LC0
+p40	LC0
+p41	LC1
+p42	LC0
+p43	LC1
+p44	LC0
+p45	LC1
+p46	LC0
+p47	LC1
+p48	LC1
+p49	LC1
+p50	LC0
+p51	LC0
+p52	LC0
+p53	LC2
+p54	LC0
+p55	LC0
+p56	LC0
+p57	LC0
+p58	LC0
+p59	LC0
+p60	LC0
+p61	LC1
+p62	LC0
+p63	LC2
+p64	LC0
+p65	LC2
+p66	LC2
+p67	LC0
+p68	LC3
+p69	LC0
+p70	LC2
+p71	LC0
+p72	LC1
+p73	LC0
+p74	LC2
+p75	LC0
+p76	LC1
+p77	LC0
+p78	LC0
+p79	LC0
+p80	LC2
+p81	LC2
+p82	LC0
+p83	LC1
+p84	LC1
+p85	LC0
+p86	LC0
+p87	LC0
+p88	LC1
+p89	LC3
+p90	LC3
+p91	LC0
+p92	LC0
+p93	LC0
+p94	LC1
+p95	LC1
+p96	LC1
+p97	LC1
+p98	LC1
+p99	LC2
