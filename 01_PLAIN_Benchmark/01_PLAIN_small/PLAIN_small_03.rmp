@@ -1,0 +1,66 @@
+# Name: PLAIN_small_03.rmp
+#
+# This dataset was provided by xxxxxx.
+#
+# The data-section lists all users and their permissions.
+#     Each line respresents one user. The first value ux gives the ID 
+#     of the considered user. The following values px correspond to 
+#     the permission set of that user.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of users: 50
+# Number of permissions: 100
+# Underlying number of roles used for creating this instance: 25
+
+
+u0	p1	p3	p5	p6	p7	p8	p13	p16	p19	p23	p24	p25	p29	p34	p39	p40	p43	p48	p50	p51	p54	p58	p65	p66	p67	p74	p77	p79	p80	p84	p86	p87	p88	p92	p98
+u1	p0	p4	p7	p9	p12	p14	p20	p22	p24	p26	p28	p29	p36	p37	p38	p39	p40	p42	p46	p54	p56	p57	p59	p60	p62	p65	p69	p74	p76	p79	p82	p84	p87	p88	p89	p90	p91	p94	p95	p96	p99
+u2	p4	p7	p12	p14	p24	p28	p29	p30	p34	p38	p39	p46	p52	p57	p58	p59	p61	p62	p67	p69	p76	p79	p83	p88	p89	p90	p96
+u3	p0	p2	p4	p12	p14	p15	p16	p22	p24	p26	p27	p28	p29	p33	p36	p37	p38	p39	p41	p43	p54	p57	p58	p61	p62	p63	p67	p68	p72	p74	p75	p79	p82	p84	p88	p89	p90	p94	p95	p96
+u4	p3	p20	p22	p28	p40	p46	p56	p92	p99
+u5	p4	p9	p10	p14	p20	p24	p25	p28	p31	p38	p40	p42	p44	p46	p54	p56	p57	p59	p60	p62	p81	p87	p88	p92	p96	p99
+u6
+u7	p0	p1	p2	p7	p9	p11	p12	p18	p25	p28	p29	p31	p39	p41	p46	p53	p56	p58	p60	p62	p63	p64	p67	p71	p74	p78	p79	p83	p91	p96	p98
+u8	p3	p4	p5	p6	p8	p12	p23	p24	p25	p29	p32	p35	p36	p38	p39	p40	p45	p46	p48	p50	p57	p58	p61	p62	p67	p88	p89	p96
+u9	p0	p1	p3	p4	p6	p7	p12	p13	p14	p15	p19	p20	p22	p24	p27	p28	p29	p38	p39	p40	p46	p50	p56	p57	p58	p60	p61	p62	p66	p67	p74	p79	p82	p86	p88	p89	p91	p92	p94	p96	p98	p99
+u10	p0	p2	p3	p4	p7	p8	p14	p15	p16	p24	p25	p27	p34	p38	p39	p43	p53	p54	p57	p58	p59	p60	p62	p63	p65	p69	p73	p76	p77	p79	p80	p82	p84	p85	p86	p87	p88	p92	p94	p99
+u11	p2	p3	p10	p12	p14	p16	p20	p22	p23	p25	p28	p31	p33	p34	p40	p41	p43	p44	p46	p54	p56	p58	p62	p63	p68	p70	p72	p74	p75	p76	p77	p81	p84	p92	p99
+u12	p1	p2	p3	p7	p9	p11	p18	p20	p22	p25	p28	p31	p40	p41	p46	p53	p56	p58	p62	p63	p64	p67	p71	p78	p83	p92	p96	p98	p99
+u13	p3	p7	p8	p16	p24	p25	p34	p43	p77	p79	p80	p86	p92
+u14	p0	p1	p4	p6	p7	p10	p12	p13	p14	p19	p24	p25	p28	p29	p31	p34	p38	p39	p40	p44	p45	p46	p50	p57	p58	p60	p61	p62	p66	p67	p74	p79	p81	p86	p88	p89	p91	p92	p96	p98
+u15	p1	p3	p6	p7	p8	p10	p13	p14	p15	p16	p19	p21	p24	p25	p29	p33	p34	p39	p40	p43	p50	p53	p58	p65	p66	p72	p77	p79	p80	p83	p86	p88	p92	p93	p98
+u16	p0	p4	p8	p14	p15	p24	p27	p32	p35	p36	p45	p46	p58	p82	p88	p94
+u17	p3	p4	p5	p6	p7	p9	p11	p14	p18	p20	p22	p23	p25	p28	p30	p31	p32	p34	p40	p46	p48	p50	p51	p52	p54	p55	p56	p58	p59	p61	p63	p64	p67	p69	p70	p71	p76	p77	p79	p80	p83	p90	p92	p96	p99
+u18	p0	p1	p2	p3	p5	p7	p8	p11	p12	p16	p22	p24	p25	p26	p28	p29	p33	p34	p36	p37	p39	p40	p41	p43	p46	p51	p53	p54	p56	p58	p60	p62	p63	p65	p67	p68	p72	p74	p75	p77	p78	p79	p80	p82	p84	p86	p87	p89	p90	p91	p92	p95	p98
+u19	p4	p5	p9	p20	p34	p40	p42	p45	p46	p51	p54	p56	p62	p65	p67	p74	p84	p87	p96
+u20	p0	p14	p15	p24	p27	p82	p88	p94
+u21	p4	p7	p12	p14	p24	p26	p28	p29	p30	p31	p32	p34	p38	p39	p43	p46	p52	p57	p58	p59	p61	p62	p67	p69	p72	p73	p76	p79	p83	p86	p88	p89	p90	p94	p96
+u22	p10	p14	p25	p28	p31	p44	p62	p81	p92
+u23	p4	p7	p14	p28	p30	p34	p46	p52	p58	p59	p61	p69	p76	p79	p83	p90
+u24	p10	p14	p23	p25	p28	p31	p34	p44	p46	p54	p62	p63	p70	p76	p77	p81	p92
+u25	p0	p4	p15	p32	p46	p63	p65	p81	p99
+u26	p7	p9	p10	p14	p18	p25	p28	p31	p44	p62	p64	p67	p71	p81	p83	p92	p96
+u27	p3	p5	p6	p7	p20	p22	p23	p25	p28	p34	p40	p45	p46	p48	p50	p56	p62	p65	p69	p74	p76	p84	p92	p94	p99
+u28	p0	p4	p12	p14	p15	p24	p27	p28	p29	p38	p39	p46	p54	p57	p59	p60	p61	p62	p67	p74	p79	p82	p87	p88	p89	p91	p94	p96	p99
+u29	p3	p4	p7	p8	p10	p14	p16	p22	p24	p25	p26	p28	p31	p34	p36	p37	p38	p43	p44	p54	p57	p59	p60	p62	p74	p77	p79	p80	p81	p82	p86	p87	p88	p89	p90	p92	p95	p99
+u30	p4	p12	p23	p24	p29	p34	p38	p39	p46	p54	p57	p61	p62	p63	p67	p70	p76	p77	p88	p89	p96
+u31	p0	p1	p2	p11	p14	p15	p24	p25	p26	p27	p31	p32	p41	p43	p46	p53	p56	p57	p58	p62	p63	p72	p73	p78	p82	p86	p88	p94	p98
+u32	p0	p2	p4	p7	p12	p14	p16	p28	p29	p30	p33	p34	p39	p41	p43	p45	p46	p52	p54	p58	p59	p60	p61	p62	p63	p68	p69	p72	p74	p75	p76	p79	p83	p84	p90	p91
+u33	p3	p4	p7	p8	p12	p16	p24	p25	p29	p32	p34	p35	p36	p38	p39	p43	p45	p46	p57	p58	p61	p62	p67	p77	p79	p80	p86	p88	p89	p92	p96
+u34	p3	p5	p6	p23	p25	p40	p48	p50
+u35	p4	p9	p20	p23	p34	p40	p42	p46	p54	p56	p62	p63	p70	p76	p77	p96
+u36	p4	p5	p11	p14	p24	p32	p38	p40	p46	p50	p51	p54	p55	p57	p59	p60	p64	p65	p67	p69	p74	p80	p84	p87	p88	p99
+u37	p1	p2	p7	p9	p11	p18	p25	p31	p41	p46	p53	p56	p58	p62	p63	p64	p67	p71	p78	p83	p96	p98
+u38	p3	p5	p6	p7	p8	p9	p16	p18	p20	p22	p23	p24	p25	p28	p31	p34	p40	p43	p46	p48	p50	p56	p64	p67	p71	p77	p79	p80	p83	p86	p92	p96	p99
+u39	p3	p7	p8	p16	p23	p24	p25	p26	p31	p32	p34	p43	p46	p54	p57	p63	p70	p72	p73	p76	p77	p79	p80	p86	p92	p94
+u40	p1	p2	p3	p5	p6	p10	p11	p14	p23	p25	p28	p31	p40	p41	p44	p46	p48	p50	p51	p53	p54	p56	p58	p62	p63	p65	p67	p74	p78	p81	p84	p87	p92	p98
+u41	p3	p5	p6	p7	p8	p16	p23	p24	p25	p34	p40	p43	p48	p50	p77	p79	p80	p86	p92
+u42	p23	p34	p46	p54	p63	p70	p76	p77
+u43	p1	p2	p3	p4	p5	p6	p7	p11	p14	p23	p25	p28	p30	p34	p40	p41	p46	p48	p50	p52	p53	p56	p58	p59	p61	p62	p63	p69	p76	p78	p79	p83	p90	p98
+u44	p0	p4	p8	p9	p12	p14	p15	p20	p22	p24	p26	p27	p28	p29	p32	p35	p36	p37	p38	p39	p40	p42	p45	p46	p56	p57	p58	p61	p62	p67	p74	p79	p82	p88	p89	p90	p94	p95	p96
+u45	p1	p2	p3	p4	p5	p6	p7	p8	p9	p11	p12	p16	p20	p22	p23	p24	p25	p28	p32	p33	p34	p39	p40	p41	p42	p43	p46	p48	p50	p51	p53	p54	p55	p56	p58	p62	p63	p64	p65	p68	p69	p70	p72	p73	p74	p75	p76	p77	p78	p79	p80	p84	p85	p86	p92	p96	p98	p99
+u46	p7	p34	p45	p62	p65	p69	p74	p76	p84	p94
+u47	p1	p2	p4	p7	p10	p12	p14	p15	p16	p21	p23	p24	p28	p29	p30	p33	p34	p38	p39	p41	p43	p46	p52	p53	p54	p57	p58	p59	p61	p62	p63	p65	p67	p68	p69	p70	p72	p74	p75	p76	p77	p79	p83	p84	p88	p89	p90	p93	p96
+u48	p1	p3	p6	p7	p13	p19	p20	p22	p26	p28	p29	p36	p37	p39	p40	p46	p50	p56	p58	p66	p74	p79	p82	p86	p88	p89	p90	p92	p95	p98	p99
+u49	p0	p3	p4	p5	p6	p12	p14	p23	p24	p25	p28	p29	p38	p39	p40	p46	p48	p50	p51	p54	p57	p59	p60	p65	p67	p74	p79	p84	p87	p88	p91	p99
