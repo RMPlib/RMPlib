@@ -14,8 +14,6 @@ For further information...
    
    
 ***
-This work is currently undergoing a double-blind review process. Therefore, all information linking to persons or organizations are anonymized at present, but will be updated at the end of the review process.
-***
 **!!! Work in progress !!!**   
-Currently, all folders of _RMPlib_ contain one example file. The inclusion of all other benchmark instances resp. extension files is currently being prepared and planned for 03/03/2021.
+This work is currently undergoing a double-blind review process. Therefore, all information linking to persons or organizations are anonymized at present, but will be updated at the end of the review process.
 ***
