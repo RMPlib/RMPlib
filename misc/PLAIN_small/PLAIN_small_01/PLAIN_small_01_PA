@@ -1,1 +1,37 @@
+# Name: PLAIN_small_01_PA.rmp
+#
+# This dataset was provided by xxxxxx.
+#
+# The data-section lists all roles and their permissions.
+#     Each line respresents one role. The first value rx gives the ID 
+#     of the considered role. The following values px correspond to 
+#     the permission set of that role.
+#  
+# Number of roles: 22
+# Number of permissions: 38
 
+
+r0	p0	p4	p10	p24	p26	p28	p29
+r1	p2	p7	p12	p31	p36	p40
+r2	p2	p4	p8	p11	p21
+r3	p1	p8	p13	p28
+r4	p3	p8	p18	p25	p35
+r5	p1	p17	p23	p24	p25	p31
+r6	p11	p22
+r7	p9	p10	p11	p12	p13	p22	p25	p26
+r8	p4	p7	p8	p14	p19
+r9	p9	p12	p13	p19	p27	p30	p36	p37	p38
+r10	p0	p34
+r11	p16	p32
+r12	p0	p5	p35
+r13	p1	p32	p36
+r14	p2	p10	p27
+r15	p4	p15	p23	p39
+r16	p27	p31	p38	p39
+r17	p1	p7	p9	p26
+r18	p1	p6	p7	p11	p15	p19	p21	p37
+r19	p0	p18	p22	p26	p33
+r20	p3	p17	p40
+r21	p2	p11	p27
+r22	p20
+r23	p15	p29
