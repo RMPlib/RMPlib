@@ -1,1 +1,63 @@
+# Name: PLAIN_small_01_UA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all users and their roles.
+#     Each line respresents one user. The first value ux gives the ID 
+#     of the considered user. The following values rx correspond to 
+#     the roles set of that user.
+#  
+# Number of users: 46
+# Number of roles: 24
 
+
+u0	r1	r5
+u1	r1	r2	r12	r17
+u2	r23
+u3	r9	r11	r20	r22
+u4	r5
+u5	r10	r12	r13	r23
+u6	r9	r19
+u7	r6	r19
+u8	r0	r1	r19
+u9	r21	r22
+u10	r0	r16	r18	r19	r23
+u11	r0	r1	r9	r12	r23
+u12	r7	r17	r21
+u13	r4	r13	r17
+u14	r16
+u15	r3	r7	r12	r15	r16
+u16	r2	r6
+u17	r5	r14	r20	r21	r22
+u18	r3
+u19	r17	r23
+u20	r4	r9	r21	r22
+u21	r12	r21	r22
+u22	r11	r14
+u23	r10
+u24	r0	r5
+u25	r20	r22
+u26	r5	r11
+u27	r18	r22
+u28	r22
+u29	r0	r8	r11	r13	r15	r17	r18	r21	r22	r23
+u30	r15	r19	r23
+u31	r0	r11	r12	r15	r19	r23
+u32	r3	r4	r7
+u33	r0	r3	r10
+u34	r1	r11	r18	r23
+u35	r2	r7	r9	r12	r16	r19	r21
+u36	r15
+u37	r9	r16
+u38	r2	r14	r16	r21	r23
+u39	r3	r6	r12	r20	r21	r22
+u40	r5	r8	r10	r20	r22
+u41	r2	r7	r18
+u42	r1	r2	r11	r17	r23
+u43	r11	r17
+u44	r0	r14	r19
+u45	r1	r9	r11	r13
