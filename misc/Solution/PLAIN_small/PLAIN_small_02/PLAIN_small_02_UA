@@ -1,1 +1,51 @@
 
+u0	r13	r22
+u1	r13	r16	r19
+u2	r10	r11	r12	r14	r15	r19	r26	r27
+u3	r4	r10	r13	r14	r16	r17	r22	r25
+u4	r1	r15	r17	r20	r22
+u5	r6	r8	r12	r13	r21	r22	r23	r28
+u6	r0	r13	r26	r27
+u7	r3	r6	r7	r15	r16	r17	r21	r23
+u8	r0	r1	r3	r6	r14	r15	r26
+u9	r6	r8	r13	r17	r21	r23	r26
+u10	r7	r12	r17
+u11	r2	r6	r10	r12	r19	r27
+u12	r5	r9	r15	r19	r22	r23	r24
+u13	r7	r9	r19	r25
+u14	r2	r6	r19	r24
+u15	r8	r13	r24	r27
+u16	r9	r16	r21	r27
+u17	r14	r19
+u18	r7	r12	r13	r14	r24
+u19	r3	r12	r16	r28
+u20	r16	r20	r21
+u21	r0	r2	r5	r6	r16	r19	r21	r24	r25
+u22	r5	r7	r12	r16	r17	r19	r21	r22	r25	r28
+u23	r25
+u24	r5	r6	r8	r14	r21	r23	r26
+u25	r6	r15	r16	r19	r21	r23	r24
+u26	r0	r8	r19	r26	r27
+u27	r5	r7	r10	r16	r17	r20	r21	r28
+u28	r18	r26
+u29	r2	r6	r21	r24	r26
+u30	r5	r16	r20	r21	r27
+u31	r0	r4	r6	r9	r22	r23	r28
+u32	r6	r12	r16	r17	r20	r21	r23	r27
+u33	r3	r6	r15	r17	r20	r26	r28
+u34	r2	r7	r17	r22	r26
+u35	r9
+u36	r20	r24	r25
+u37	r0	r2	r4	r10	r12	r17	r19
+u38	r10	r16	r17	r21
+u39	r10	r11	r15	r17	r19	r26
+u40	r6	r21	r23	r26	r27
+u41	r4	r8	r11	r14	r16	r28
+u42	r10	r16	r28
+u43	r24	r25	r28
+u44	r22	r26
+u45	r3	r5	r12	r14	r19	r20	r23
+u46	r3	r6	r12	r20	r21	r23	r24	r25	r27	r28
+u47	r14	r27	r28
+u48	r16	r19	r20	r22	r25	r28
+u49	r8
