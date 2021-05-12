@@ -1,1 +1,82 @@
+# Name: PLAIN_small_08_PA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all roles and their permissions.
+#     Each line respresents one role. The first value rx gives the ID 
+#     of the considered role. The following values px correspond to 
+#     the permission set of that role.
+#  
+# Number of roles: 65
+# Number of permissions: 173
 
+
+r0	p7	p12	p32	p68	p69	p72	p79	p106	p148
+r1	p5	p7	p12	p14	p38	p46	p89	p97	p125	p140	p158
+r2	p1	p19	p78	p80	p92	p95	p121	p123	p124	p166
+r3	p4	p38	p58	p85	p93	p122	p136	p159	p164
+r4	p9	p14	p25	p111	p117	p138	p153	p161	p167
+r5	p26	p35	p42	p54	p120	p149	p164	p171
+r6	p4	p42	p71	p85	p102	p125	p140	p144
+r7	p11	p39	p64	p72	p83	p99	p109	p118	p123	p125	p129	p135	p165	p169	p172
+r8	p110
+r9	p44	p57	p75	p99	p124	p138
+r10	p5	p15	p59	p66	p103	p118	p120	p161
+r11	p9	p18	p49	p93	p105	p112	p121	p154	p157
+r12	p0	p43	p50	p97	p101	p123	p130	p159
+r13	p6	p29	p65	p100	p119	p124	p134	p135	p138	p145
+r14	p2	p19	p29	p32	p50	p51	p52	p54	p87	p105	p135	p156
+r15	p7	p25	p37	p38	p53	p88	p98	p119	p130	p137	p158
+r16	p17	p22	p33	p36	p107
+r17	p0	p36	p37	p56	p99	p136
+r18	p69
+r19	p0	p19	p30	p90	p140	p152	p157	p163
+r20	p0	p5	p6	p8	p18	p50	p60	p73	p99	p108	p116	p119	p138	p146	p157	p172
+r21	p20
+r22	p1	p4	p8	p32	p34	p58	p62	p66	p103	p131	p148
+r23	p52	p126	p129	p136	p141	p143	p153
+r24	p18	p45	p100	p124	p129	p155	p161
+r25	p60	p62	p67	p78	p106	p126	p133	p138	p149	p157	p170
+r26	p44	p100	p114	p132	p140	p152
+r27	p22	p46	p115	p116	p142	p171
+r28	p14	p16	p40	p75	p109	p118	p150
+r29	p1	p52	p110	p130	p140	p150	p171
+r30	p21
+r31	p137
+r32	p21	p30	p31	p41	p51	p67	p74	p85	p87	p92	p127
+r33	p34	p46	p50	p53	p127	p142	p147	p161
+r34	p99
+r35	p70
+r36	p37	p88	p125	p127	p155	p157	p163
+r37	p24	p31	p61	p72	p74	p131	p154	p159
+r38	p2	p19	p22	p46	p74	p75	p86	p91	p148	p150
+r39	p35	p46	p76	p90	p107	p130	p160
+r40	p21	p48	p82	p96	p99	p101	p145
+r41	p17	p40	p99	p113	p119	p146	p161
+r42	p61	p97	p126	p137	p149	p160	p166
+r43	p3	p83	p85	p93	p97	p102	p108	p126	p131	p153	p159
+r44	p3	p8	p31	p43	p82	p97	p128	p168	p172
+r45	p9	p27	p54	p75	p79	p89	p100
+r46	p8	p47	p87	p97	p123	p139
+r47	p23	p43	p78	p94	p104	p130	p139	p158	p162
+r48	p0	p11	p74	p84	p94	p138	p143	p151	p169
+r49	p3	p65	p96	p118	p150	p158
+r50	p1	p5	p6	p7	p11	p12	p14	p19	p21	p22	p29	p38	p39	p46	p64	p65	p70	p72	p78	p80	p83	p89	p92	p95	p97	p99	p100	p109	p110	p115	p116	p118	p119	p121	p123	p124	p125	p129	p134	p135	p138	p140	p142	p145	p158	p165	p166	p169	p171	p172
+r51	p42
+r52	p162
+r53	p13	p36	p91	p112	p114	p136	p151	p170
+r54	p152
+r55	p55	p64	p75	p95	p103	p158	p163
+r56	p41
+r57	p45
+r58	p32	p54	p59	p63	p111	p133	p134	p144	p147	p156
+r59	p167
+r60	p0	p10	p56	p83	p101	p110	p115	p127	p160
+r61	p28	p31	p74	p100	p104	p107	p114	p133
+r62	p13	p18	p31	p42	p70	p81	p95	p100	p107	p133	p161	p165	p169
+r63	p43	p54	p59	p61	p77	p119	p128	p130	p156
+r64	p15
