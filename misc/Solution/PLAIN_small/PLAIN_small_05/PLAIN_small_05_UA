@@ -1,1 +1,112 @@
+# Name: PLAIN_small_05_UA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all users and their roles.
+#     Each line respresents one user. The first value ux gives the ID 
+#     of the considered user. The following values rx correspond to 
+#     the roles set of that user.
+#  
+# Number of users: 95
+# Number of roles: 52
 
+
+u0	r0	r11
+u1	r18	r19	r29	r35	r45	r46
+u2	r12	r15	r24	r40	r45	r49
+u3	r39	r46
+u4	r11	r29	r43
+u5	r5	r13	r24	r45	r50
+u6	r2	r6	r9	r38	r45
+u7	r22	r44
+u8	r4	r20	r21
+u9	r27	r50
+u10	r2	r19	r45
+u11	r12	r26
+u12	r4	r33	r36
+u13	r22	r40
+u14	r46
+u15	r7	r18	r19	r45
+u16	r42	r48
+u17	r4	r28
+u18	r19	r22	r32	r45
+u19	r17	r50
+u20	r12	r14	r40	r45
+u21	r4	r8	r42
+u22	r17	r22	r29
+u23	r5	r45	r46	r47	r51
+u24	r11	r14	r16	r31
+u25	r6	r17	r27	r43
+u26	r16	r42	r47
+u27	r7	r19	r33	r45
+u28	r29
+u29	r20	r25	r33	r45
+u30	r5	r6	r14	r18	r41	r45	r51
+u31	r24
+u32	r21
+u33	r23
+u34	r22	r35	r44
+u35	r39	r43
+u36	r21	r23	r28	r32
+u37	r31	r40
+u38	r5	r18	r27	r45
+u39	r12	r15	r19	r20	r25	r38	r45	r49
+u40	r40
+u41	r11	r17	r39
+u42	r3	r9	r25	r45
+u43	r7
+u44	r16	r23
+u45	r7	r8	r23	r25	r28	r33	r41	r45
+u46	r38
+u47	r44
+u48	r33	r41
+u49	r3	r18	r42	r50
+u50	r0	r11	r18	r28
+u51	r2	r11	r14	r36	r45	r49
+u52	r5	r10	r11	r45	r50
+u53	r19	r32	r45
+u54	r51
+u55	r20	r41	r43	r49
+u56	r33	r48
+u57	r5	r35	r45	r48
+u58	r8	r31
+u59	r8	r12	r15	r32	r45	r46	r49
+u60	r9	r27	r29	r33	r41
+u61	r2	r22	r33	r44	r45
+u62	r12	r13	r17	r45	r50
+u63	r13	r14	r25	r45
+u64	r1	r4	r5	r10	r45
+u65	r14	r17	r28	r37
+u66	r44	r49	r51
+u67	r35	r47	r50
+u68	r34
+u69	r36
+u70	r14	r49
+u71	r9
+u72	r11	r12	r15	r45	r49
+u73	r18	r48
+u74	r30
+u75	r22	r41
+u76	r17	r18	r31	r48
+u77	r2	r6	r25	r42	r45
+u78	r33	r50
+u79	r3	r22	r37
+u80	r47
+u81	r0	r10	r32	r37	r39	r50
+u82	r12	r15	r31	r45	r49
+u83	r8	r29
+u84	r31	r48
+u85	r19	r45
+u86	r35	r38	r50
+u87	r11	r23	r35	r49
+u88	r28	r31
+u89	r18	r49
+u90	r0	r4	r25	r37	r45	r50
+u91	r3	r12	r15	r45	r49
+u92	r31	r34
+u93	r1	r8	r44	r51
+u94	r24	r37	r49
