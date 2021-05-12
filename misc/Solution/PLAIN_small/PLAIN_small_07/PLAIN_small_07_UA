@@ -1,1 +1,116 @@
+# Name: PLAIN_small_07_UA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all users and their roles.
+#     Each line respresents one user. The first value ux gives the ID 
+#     of the considered user. The following values rx correspond to 
+#     the roles set of that user.
+#  
+# Number of users: 99
+# Number of roles: 84
 
+
+u0	r3	r4	r5	r6	r18	r22	r30	r34	r36	r45	r48	r49	r51	r52	r54	r56	r57	r58	r62	r64	r71	r72	r73	r83
+u1	r3	r4	r13	r28	r35	r41	r45	r48	r51	r52	r54	r60	r61	r66	r68	r70	r72	r73	r74	r79	r80
+u2	r10	r13	r17	r33	r36	r39	r45	r48	r51	r52	r54	r57	r59	r60	r61	r62	r65	r68	r73	r74	r77	r78	r80
+u3	r1	r19	r27	r49	r54	r56	r63	r64	r66	r70	r71	r73	r74	r76	r83
+u4	r17	r19	r30	r39	r40	r42	r45	r46	r49	r51	r54	r56	r57	r58	r60	r61	r62	r64	r66	r68	r74	r76	r80
+u5	r7	r9	r19	r30	r46	r49	r56	r63	r66	r73	r76	r77	r78	r83
+u6	r9	r34	r36	r45	r46	r48	r49	r50	r51	r52	r54	r55	r58	r64	r66	r70	r74	r79	r83
+u7	r25	r41	r42	r48	r49	r56	r61	r63	r65	r66	r73	r77	r78	r80	r83
+u8	r5	r12	r19	r30	r42	r45	r48	r54	r55	r56	r62	r66	r68	r79	r82
+u9	r11	r22	r46	r49	r50	r51	r54	r56	r58	r63	r64	r66	r73	r79	r83
+u10	r3	r4	r9	r18	r22	r46	r49	r50	r51	r54	r55	r56	r58	r63	r64	r66	r73	r77	r78	r83
+u11	r11	r22	r30	r38	r48	r56	r62	r65	r77	r78
+u12	r3	r9	r22	r39	r46	r49	r51	r54	r56	r58	r59	r61	r64	r66	r69	r70	r74	r76	r80	r83
+u13	r9	r10	r12	r13	r19	r30	r33	r40	r42	r45	r46	r48	r49	r51	r52	r55	r56	r60	r62	r68	r73	r77	r78	r80	r83
+u14	r2	r6	r34	r48	r52	r56	r64	r66	r68	r76	r82
+u15	r0	r4	r17	r18	r19	r21	r26	r36	r49	r54	r55	r56	r57	r59	r62	r63	r64	r66	r68	r73	r74	r79	r80	r83
+u16	r15	r17	r20	r25	r26	r31	r36	r39	r46	r51	r54	r58	r59	r62	r64	r66	r68	r70	r74	r80
+u17	r74	r75
+u18	r9	r13	r45	r46	r48	r54	r66	r68	r70	r73	r74	r82	r83
+u19	r5	r6	r15	r17	r21	r30	r34	r36	r45	r48	r52	r54	r56	r62	r63	r64	r66	r68	r73	r74	r79	r83
+u20	r81
+u21	r5	r19	r20	r24	r30	r33	r36	r42	r49	r51	r54	r56	r60	r62	r63	r66	r68	r69	r71	r73	r78	r83
+u22	r12	r19	r30	r49	r56	r62	r63	r66	r73	r81	r83
+u23	r67	r83
+u24	r1	r17	r19	r26	r30	r36	r39	r51	r56	r57	r60	r62	r64	r68	r74	r77	r78	r81
+u25	r24	r34	r40	r48	r49	r50	r52	r56	r63	r66	r69	r73	r80	r83
+u26	r3	r14	r20	r34	r36	r41	r48	r51	r52	r60	r61	r68	r71	r73	r79	r80	r83
+u27	r5	r45	r54	r67	r83
+u28	r3	r9	r14	r17	r35	r36	r39	r43	r45	r46	r49	r51	r56	r57	r60	r62	r63	r66	r68	r70	r73	r74	r77	r78	r80	r81	r83
+u29	r1	r5	r9	r31	r38	r54	r56	r64	r66	r71	r76	r81	r83
+u30	r17	r20	r35	r36	r39	r41	r42	r46	r49	r51	r54	r56	r57	r58	r62	r64	r66	r68	r69	r70	r71	r73	r74	r76	r79	r80	r83
+u31	r3	r4	r9	r10	r12	r18	r22	r45	r46	r48	r49	r50	r51	r52	r54	r55	r58	r64	r66	r68	r70	r74	r82	r83
+u32	r10	r25	r43	r48	r52	r65	r79	r81
+u33	r20	r28	r45	r46	r49	r51	r52	r54	r58	r60	r64	r66	r68	r70	r71	r74	r83
+u34	r32	r51	r56	r64	r68	r82
+u35	r0	r3	r4	r8	r33	r35	r40	r48	r49	r54	r66	r68	r70	r72	r73	r74	r78	r80	r82
+u36	r5	r11	r12	r13	r22	r30	r34	r38	r40	r45	r46	r48	r49	r51	r52	r54	r56	r58	r61	r62	r64	r73	r77	r78	r80
+u37	r9	r17	r34	r36	r43	r45	r46	r48	r49	r50	r51	r52	r54	r57	r58	r60	r62	r64	r68	r74	r83
+u38	r11	r26	r27	r30	r38	r39	r49	r50	r51	r54	r55	r56	r58	r59	r62	r63	r64	r66	r71	r73	r80	r83
+u39	r9	r46	r48	r49	r50	r51	r54	r55	r58	r64	r66	r68	r77	r78	r82	r83
+u40	r29	r45	r51	r68	r82
+u41	r16	r56	r69
+u42	r13	r24	r48	r55	r56	r66	r69	r73	r76
+u43	r5	r12	r13	r17	r26	r45	r46	r48	r49	r50	r51	r54	r55	r57	r58	r59	r62	r64	r66	r68	r71	r73	r74	r77	r78	r80	r82	r83
+u44	r9	r11	r27	r30	r33	r36	r38	r45	r49	r54	r56	r62	r63	r66	r67	r70	r73	r74	r78	r79	r83
+u45	r7	r9	r24	r33	r36	r39	r41	r46	r49	r54	r56	r59	r63	r66	r69	r73	r78	r80	r83
+u46	r3	r4	r9	r13	r18	r22	r45	r46	r48	r55	r73	r83
+u47	r24	r25	r34	r36	r41	r42	r48	r52	r56	r61	r65	r66	r69	r73	r76	r77	r78	r80
+u48	r10	r17	r22	r24	r36	r39	r46	r49	r50	r51	r52	r54	r56	r57	r58	r59	r62	r64	r68	r69	r74	r77	r78	r79	r80
+u49	r26	r27	r28	r39	r41	r42	r45	r48	r52	r54	r59	r61	r66	r68	r70	r71	r73	r74	r80	r82	r83
+u50	r19	r20	r24	r30	r34	r36	r48	r52	r54	r56	r59	r62	r69	r80	r81
+u51	r9	r10	r13	r16	r41	r45	r46	r48	r51	r54	r56	r60	r61	r66	r68	r70	r73	r74	r76	r80	r83
+u52	r17	r24	r28	r34	r36	r48	r52	r55	r56	r61	r62	r66	r68	r69	r74	r76
+u53	r7	r10	r18	r40	r41	r49	r50	r52	r73	r80
+u54	r19	r27	r30	r33	r39	r40	r41	r49	r54	r56	r59	r62	r71	r73	r78	r79	r80	r81	r83
+u55	r8	r13	r42	r43	r48	r65	r73	r79
+u56	r23	r64	r73	r78
+u57	r10	r48	r52	r55	r56	r66	r68	r76	r77	r78	r81	r82
+u58	r5	r12	r19	r30	r33	r34	r41	r45	r48	r49	r52	r54	r56	r59	r61	r62	r63	r66	r68	r71	r73	r76	r78	r80	r81	r82	r83
+u59	r1	r12	r17	r19	r24	r40	r49	r51	r56	r57	r60	r62	r63	r64	r66	r68	r69	r71	r73	r74	r79	r80	r83
+u60	r18	r40	r45	r49	r54	r56	r66	r70	r74	r76	r80	r81
+u61	r17	r20	r39	r40	r45	r46	r49	r51	r54	r57	r58	r60	r62	r64	r68	r71	r74	r80	r83
+u62	r1	r18	r19	r21	r27	r33	r41	r48	r49	r56	r57	r61	r62	r63	r64	r66	r68	r71	r72	r73	r74	r78	r79	r80	r81	r82	r83
+u63	r5	r17	r26	r30	r31	r33	r36	r38	r39	r54	r55	r56	r57	r59	r62	r68	r73	r74	r78	r79	r80
+u64	r4	r17	r18	r36	r39	r43	r45	r49	r51	r54	r56	r57	r60	r62	r63	r66	r68	r70	r73	r74	r83
+u65	r12	r45	r51	r54	r60	r66	r68	r70	r74
+u66	r20	r28	r41	r42	r49	r51	r52	r56	r60	r61	r63	r66	r68	r71	r73	r80	r83
+u67	r5	r30	r31	r38	r46	r49	r50	r51	r54	r55	r56	r58	r62	r64	r81
+u68	r9	r10	r18	r39	r40	r41	r42	r45	r46	r48	r49	r51	r52	r54	r55	r58	r59	r60	r61	r64	r65	r66	r68	r70	r73	r74	r77	r78	r80	r83
+u69	r0	r2	r12	r26	r40	r48	r49	r54	r55	r59	r64	r66	r70	r74	r77	r78	r80
+u70	r37	r56	r68	r82
+u71	r9	r17	r26	r35	r36	r39	r45	r46	r49	r54	r56	r57	r59	r62	r63	r66	r68	r73	r74	r79	r80	r83
+u72	r3	r22	r28	r35	r52	r55	r72	r73
+u73	r5	r6	r21	r34	r35	r36	r46	r48	r49	r51	r52	r54	r55	r56	r58	r64	r66	r69	r70	r72	r73	r74
+u74	r47	r56	r73	r83
+u75	r17	r19	r30	r39	r40	r42	r45	r49	r56	r57	r62	r67	r68	r74	r79	r80	r83
+u76	r53	r62	r64	r68	r74
+u77	r1	r12	r17	r19	r28	r33	r40	r41	r42	r49	r51	r52	r55	r57	r60	r62	r64	r67	r68	r73	r74	r77	r78	r80	r83
+u78	r7	r10	r41	r46	r49	r51	r52	r54	r55	r58	r61	r64	r73	r80	r81
+u79	r18	r25	r41	r48	r51	r56	r60	r61	r66	r68	r72	r73	r76	r80	r81	r82
+u80	r18	r25	r39	r40	r41	r48	r49	r54	r56	r59	r61	r63	r65	r66	r73	r79	r80	r81	r83
+u81	r3	r13	r22	r24	r48	r56	r69	r73	r77	r78
+u82	r44	r51	r64	r68	r73	r74	r78	r80	r82
+u83	r5	r18	r24	r42	r43	r48	r49	r54	r56	r63	r65	r66	r69	r73	r83
+u84	r55	r81
+u85	r8	r12	r13	r26	r33	r42	r46	r48	r49	r51	r54	r55	r56	r58	r59	r63	r64	r65	r66	r68	r73	r78	r80	r82	r83
+u86	r5	r13	r20	r31	r34	r40	r48	r49	r52	r54	r66	r68	r71	r73	r80	r82	r83
+u87	r24	r30	r31	r38	r48	r56	r62	r65	r66	r69	r76	r77	r78	r79
+u88	r0	r2	r5	r6	r9	r25	r41	r42	r46	r48	r49	r54	r56	r63	r64	r66	r73	r80	r83
+u89	r3	r14	r17	r19	r24	r30	r31	r33	r35	r36	r39	r56	r62	r68	r69	r73	r74	r78	r80	r81
+u90	r3	r5	r14	r18	r20	r34	r36	r45	r46	r48	r49	r51	r52	r58	r60	r64	r68	r71	r73	r79	r80	r81	r83
+u91	r10	r13	r17	r33	r39	r45	r48	r52	r55	r57	r62	r66	r68	r73	r74	r78	r82
+u92	r5	r9	r12	r13	r26	r33	r45	r46	r48	r54	r59	r66	r68	r73	r77	r78	r79	r80	r82	r83
+u93	r9	r19	r30	r34	r36	r46	r48	r50	r51	r52	r56	r60	r66	r68	r76	r81	r83
+u94	r24	r31	r33	r36	r56	r66	r69	r73	r76	r77	r78
+u95	r9	r10	r18	r19	r26	r27	r30	r34	r36	r42	r46	r48	r49	r52	r54	r56	r59	r61	r62	r63	r65	r66	r73	r80	r83
+u96	r1	r17	r19	r21	r27	r30	r34	r36	r48	r50	r52	r55	r56	r62	r64	r68	r71	r74	r83
+u97	r3	r14	r35	r39	r46	r49	r50	r51	r58	r64	r73	r79	r80
+u98	r12	r33	r55	r73	r78
