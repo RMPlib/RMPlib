@@ -1,1 +1,69 @@
+# Name: PLAIN_small_05_PA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all roles and their permissions.
+#     Each line respresents one role. The first value rx gives the ID 
+#     of the considered role. The following values px correspond to 
+#     the permission set of that role.
+#  
+# Number of roles: 52
+# Number of permissions: 90
 
+
+r0	p9	p14	p19	p29	p35	p40	p70
+r1	p23	p55
+r2	p2	p12	p15	p17	p21	p35	p49	p87
+r3	p5	p39	p42	p69	p73
+r4	p6	p12	p15	p24	p30	p58
+r5	p1	p2	p11	p18	p23	p31	p47	p57	p64
+r6	p8	p11	p17	p34	p37	p79
+r7	p11	p17	p26	p39	p45	p48	p53	p65	p73	p74	p88
+r8	p13	p61	p66	p85
+r9	p11	p21	p27	p66	p83
+r10	p44	p66	p67	p77	p85
+r11	p2	p9	p40	p42	p51	p68	p70	p88
+r12	p74
+r13	p2	p16	p44	p50	p52	p63
+r14	p0	p3	p40	p49	p80	p83
+r15	p33	p40	p65	p82	p88
+r16	p27	p30	p32	p80
+r17	p7	p16	p37	p56	p57	p88
+r18	p12	p26	p66	p69	p83	p89
+r19	p2	p41	p71
+r20	p24	p30	p36	p62	p77
+r21	p2	p7	p10	p54	p65	p75	p85
+r22	p3	p11	p34	p41	p59	p63	p75
+r23	p16	p25	p62	p69
+r24	p0	p20	p35	p70	p77	p84	p88
+r25	p48	p69	p86
+r26	p2	p4	p5	p11	p14	p17	p21	p23	p26	p27	p28	p39	p41	p45	p46	p48	p53	p55	p59	p65	p66	p73	p80	p83	p88
+r27	p4	p5	p14	p41	p53	p55	p59
+r28	p51	p53	p58
+r29	p22	p24	p27	p31	p87	p89
+r30	p7	p8	p11	p16	p17	p24	p30	p34	p36	p37	p44	p56	p57	p62	p64	p66	p67	p77	p79	p85	p88
+r31	p60	p82
+r32	p26	p37
+r33	p52	p64	p73	p75	p83
+r34	p59	p68
+r35	p28	p40	p45	p47	p48	p61
+r36	p2	p28	p46	p80
+r37	p16	p29	p37	p40	p44
+r38	p55	p67	p72	p85
+r39	p46	p60	p68
+r40	p38	p67	p79
+r41	p17	p28	p36	p69	p81
+r42	p53	p67	p71	p72	p76	p84
+r43	p3	p15	p45	p63	p88
+r44	p3	p14	p25	p64	p76
+r45	p50
+r46	p1	p28	p73	p75	p78
+r47	p0	p24	p36	p40	p72
+r48	p36	p54	p59	p74
+r49	p46	p64
+r50	p34	p43	p64
+r51	p12	p30	p45
