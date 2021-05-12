@@ -1,1 +1,77 @@
+# Name: PLAIN_small_06_PA.txt
+#
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,
+and Matthias Beil. 2021. RMPlib: A Library of Benchmarks for the Role
+Mining Problem. In Proceedings of the 26th ACM Symposium on Access Control
+Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
+#
+# The data-section lists all roles and their permissions.
+#     Each line respresents one role. The first value rx gives the ID 
+#     of the considered role. The following values px correspond to 
+#     the permission set of that role.
+#  
+# Number of roles: 60
+# Number of permissions: 90
 
+
+r0	p6	p15	p25
+r1	p12	p43	p62	p65	p72	p77	p89
+r2	p5	p23	p33	p49	p66	p80
+r3	p13	p43	p50	p83
+r4	p2	p11	p38	p62	p72
+r5	p12	p20	p50	p75
+r6	p26	p45	p47	p84
+r7	p7	p16	p65	p79
+r8	p37	p40	p70	p78
+r9	p23	p26	p63	p68	p83
+r10	p0	p17	p61	p69
+r11	p9
+r12	p14	p40	p42	p62	p67	p71	p75
+r13	p16
+r14	p2	p22	p62
+r15	p3
+r16	p6	p10	p47	p66	p73
+r17	p11	p27	p50	p55	p59
+r18	p87
+r19	p0	p14	p49	p65	p69	p73
+r20	p21
+r21	p54	p67	p68	p71	p80
+r22	p1	p13	p27	p88
+r23	p23	p49	p55	p67
+r24	p35	p65	p74
+r25	p19
+r26	p51
+r27	p54	p89
+r28	p46
+r29	p86
+r30	p5	p27	p60	p64	p66
+r31	p67	p84	p88
+r32	p4	p7	p44	p50	p53	p83
+r33	p8	p34	p36	p41	p61	p74
+r34	p58
+r35	p39
+r36	p11	p13	p68	p73
+r37	p36	p48	p54
+r38	p44	p60
+r39	p3	p8	p30	p52	p55	p65	p79
+r40	p20
+r41	p18
+r42	p15	p31	p37	p51	p79
+r43	p1	p8	p43	p45	p75
+r44	p57
+r45	p52
+r46	p28
+r47	p47
+r48	p81
+r49	p0	p41	p56	p87
+r50	p85
+r51	p11	p32	p35	p38	p63	p70
+r52	p4
+r53	p0	p10	p24	p63
+r54	p29
+r55	p82
+r56	p76
+r57	p17
+r58	p78
+r59	p6
