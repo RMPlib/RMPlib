@@ -1,6 +1,9 @@
 # Name: CMPL_20000_2.cmpl
 #
-# This dataset was provided by xxxxxx.
+# This dataset was provided by Simon Anderer, Bernd Scheuermann, Sanaz Mostaghim, Patrick Bauerle,and Matthias Beil. 2021.
+# RMPlib: A Library of Benchmarks for the Role Mining Problem.
+# In Proceedings of the 26th ACM Symposium on Access Control Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
+# ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
 #
 # The first part of the data-section specifies the weight values 
 #     of each severeness class SC.
