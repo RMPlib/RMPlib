@@ -5,7 +5,6 @@
 # In Proceedings of the 26th ACM Symposium on Access Control Models and Technologies (SACMAT ’21), June 16–18, 2021, Virtual Event, Spain.
 # ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3450569.3463566.
 #
-#
 # The data-section lists all users and their permissions.
 #     Each line respresents one user. The first value ux gives the ID 
 #     of the considered user. The following values px correspond to 
