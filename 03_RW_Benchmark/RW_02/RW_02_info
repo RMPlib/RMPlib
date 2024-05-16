@@ -1,0 +1,3 @@
+This Benchmark instance comprises a huge number of users and permissions. Thus it is provided in chunks containing different numbers of users.
+Number of users: 9,634
+Number of permissions: 4,028,813
