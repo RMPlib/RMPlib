@@ -1,1 +1,7 @@
-This folder will contain the lists for the detection of good and bad roles. These are currently being processed and will be available very soon...
+These data sets constitute an example of sets of good roles used for the experiments on interactive role mining as described in:
+
+Simon Anderer, Nicolas Justen, Bernd Scheuermann and Sanaz Mostaghim.
+Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms. 
+In Proceedings of the 15th International Joint Conference on Computational Intelligence (IJCCI 2023). IJCCI - ECTA 2023. INSTICC, SciTePress, pp. 151–162.
+
+The paper also contains a methotology to derive similar setst of roles for the other benchmark instances available in RMPlib. 
