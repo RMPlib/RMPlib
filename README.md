@@ -20,7 +20,7 @@ In: Proceedings of the 26th ACM Symposium on Access Control Models and Technolog
 
 Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022).   
 ***Evolutionary Algorithms for the Constrained Two-Level Role Mining Problem.***  
-In: Pérez Cáceres, L., Verel, S. (eds) Evolutionary Computation in Combinatorial Optimization. EvoCOP 2022. Lecture Notes in Computer Science, vol 13222. Springer, Cham.   
+In: Evolutionary Computation in Combinatorial Optimization. EvoCOP 2022. Lecture Notes in Computer Science, vol 13222. Springer, Cham.   
 https://doi.org/10.1007/978-3-031-04148-8_6 Titel anhand dieser DOI in Citavi-Projekt übernehmen   
      
 ***
