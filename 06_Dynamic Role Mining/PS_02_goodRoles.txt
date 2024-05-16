@@ -1,0 +1,28 @@
+# Name: PS_02_goodRoles.txt
+#
+# This dataset extends the benchmark instance PLAIN_small_02 (PS_02) in providing good roles for the simulation of interaction events as described in:
+# Simon Anderer, Nicolas Justen, Bernd Scheuermann and Sanaz Mostaghim.
+# Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms. 
+# In Proceedings of the 15th International Joint Conference on Computational Intelligence (IJCCI 2023).
+# IJCCI - ECTA 2023. INSTICC, SciTePress, pp. 151–162.
+#
+# The data-section lists all good roles the assigned permissions.
+#     Each line respresents one good role. The first value rx provides the ID 
+#     of the considered role. The following values px correspond to 
+#     the permissions assigned to the role.
+#
+# For more information see: https://github.com/RMPlib/RMPlib
+#  
+# Number of good roles: 10
+
+
+r0	p0	p17	p8	p24	p40	p28
+r1	p32	p19	p4	p22	p39	p12
+r2	p1	p19	p4	p6	p44	p30
+r3	p3	p4	p7	p8	p26
+r4	p16	p2	p37	p7	p24
+r5	p2	p18	p34	p21	p6	p38	p40	p26
+r6	p32	p41	p46
+r7	p0	p18	p35	p4	p36	p6	p25	p46
+r8	p17	p2	p39	p8
+r9	p32	p3	p20	p5	p45
