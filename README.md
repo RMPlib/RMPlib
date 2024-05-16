@@ -35,13 +35,15 @@ DOI: 10.5220/0012153000003595
 ***
 
 *A methodology for utilizing the benchmark instances for the Dynamic Role Mining Problem is described here:   
+
+Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2021).    
+***The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.***   
+In: Proceedings of the 13th International Joint Conference on Computational Intelligence (IJCCI 2021) - Volume 1: IJCCI}   
+DOI: 10.5220/0010654000003063
    
 Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).      
 ***Dynamic Optimization of Role Concepts for Role-Based Access Control Using Evolutionary Algorithms.***   
 In: SN Computer Science 4, 416.    
 https://doi.org/10.1007/s42979-023-01805-1   
 
-Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).    
-***The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.***   
-In: Proceedings of the 13th International Joint Conference on Computational Intelligence (IJCCI 2021) - Volume 1: IJCCI}   
-DOI: 10.5220/0010654000003063
+
