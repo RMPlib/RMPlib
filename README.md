@@ -5,13 +5,9 @@ This repository contains a library of benchmarks for the Role Mining Problem (RM
 _RMPlib_ contains synthetic and real-world benchmark instances fo different variants of the RMP such as
 - Basic RMP
 - Basic Two-level (B2L)-RMP and Constraned Two-Level (C2L)-RMP
-- Dynamic RMP
+- Dynamic RMP*
 - Interactive RMP
 - Multi-objective RMP including License Costs and Compliance Score  
-
-*A methodology for utilizing the benchmark instances for the Dynamic Role Mining Problem is described here:
-
-
 
 The provision of further benchmark instances, preferably taken from real-worls use cases, or instances covering other variants of RMP is strongly encouraged.
 
@@ -37,3 +33,14 @@ In: Proceedings of the 15th International Joint Conference on Computational Inte
 DOI: 10.5220/0012153000003595     
 ***
 
+*A methodology for utilizing the benchmark instances for the Dynamic Role Mining Problem is described here:   
+   
+Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).      
+***Dynamic Optimization of Role Concepts for Role-Based Access Control Using Evolutionary Algorithms.***   
+In: SN Computer Science 4, 416.    
+https://doi.org/10.1007/s42979-023-01805-1   
+
+Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).    
+***The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.***   
+In: Proceedings of the 13th International Joint Conference on Computational Intelligence (IJCCI 2021) - Volume 1: IJCCI}   
+DOI: 10.5220/0010654000003063
