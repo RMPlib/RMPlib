@@ -16,12 +16,17 @@ For further information...
 
 Anderer, S., Scheuermann, B., Mostaghim, S., Bauerle, P., and Beil, M. (2021).    
 ***RMPlib: A library of benchmarks for the role mining problem.***    
-In: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies, SACMAT ’21, page 3–13, New York, NY, USA. Association for Computing Machinery.     
+In: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies, SACMAT ’21, page 3–13, New York, NY, USA. Association for Computing Machinery.    
+https://doi.org/10.1145/3450569.3463566 
 
 Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022).   
 ***Evolutionary Algorithms for the Constrained Two-Level Role Mining Problem.***  
 In: Evolutionary Computation in Combinatorial Optimization. EvoCOP 2022. Lecture Notes in Computer Science, vol 13222. Springer, Cham.   
-https://doi.org/10.1007/978-3-031-04148-8_6 Titel anhand dieser DOI in Citavi-Projekt übernehmen   
-     
+https://doi.org/10.1007/978-3-031-04148-8_6
+
+Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2023).   
+***Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms.***    
+In: Proceedings of the 15th International Joint Conference on Computational Intelligence ECTA - Volume 1, 151-162, 2023 , Rome, Italy   
+DOI: 10.5220/0012153000003595     
 ***
 
