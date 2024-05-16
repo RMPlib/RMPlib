@@ -2,9 +2,16 @@
 
 This repository contains a library of benchmarks for the Role Mining Problem (RMP). 
  
-_RMPlib_ contains synthetic and real-world benchmark instances. 
+_RMPlib_ contains synthetic and real-world benchmark instances fo different variants of the RMP such as
+- Basic RMP
+- Basic Two-level (B2L)-RMP and Constraned Two-Level (C2L)-RMP
+- Dynamic RMP
+- Interactive RMP
+- Multi-objective RMP including License Costs and Compliance Score  
 
-Currently a benchmark for two-level role mining is in preparation, which contains instances created from a two-level role structure. It will be available soon.   
+*A methodology for utilizing the benchmark instances for the Dynamic Role Mining Problem is described here:
+
+
 
 The provision of further benchmark instances, preferably taken from real-worls use cases, or instances covering other variants of RMP is strongly encouraged.
 
