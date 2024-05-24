@@ -14,7 +14,7 @@
 # Number of roles: 27
 
 
-u0	r8	r11	0					
+u0	r8	r11					
 u1	r11	r13	r23					
 u2	r13	r14	r15	r16	r17	r18	r21	r23
 u3	r2	r4	r7	r8	r10	r11	r15	r17
@@ -31,13 +31,13 @@ u13	r10	r12	r13	r26
 u14	r6	r9	r13					
 u15	r9	r11	r21	r25				
 u16	r21	r22	r23	r26				
-u17	r13	r17	0					
+u17	r13	r17					
 u18	r9	r11	r12	r16	r17			
 u19	r1	r16	r19	r23				
 u20	r22	r23	r24					
 u21	r3	r6	r9	r10	r13	r20	r22	r23
 u22	r1	r7	r8	r10	r12	r13	r16	r20
-u23	r10	0	0					
+u23	r10				
 u24	r0	r17	r18	r20	r23	r25		
 u25	r0	r9	r13	r14	r23			
 u26	r3	r13	r18	r21	r23	r25		
@@ -49,7 +49,7 @@ u31	r0	r1	r2	r3	r8	r26
 u32	r0	r7	r16	r21	r23	r24		
 u33	r1	r6	r7	r14	r18	r19	r23	r24
 u34	r6	r7	r8	r12	r18	r23		
-u35	r26	0	0					
+u35	r26				
 u36	r9	r10	r24					
 u37	r2	r3	r6	r7	r13	r15	r16	r22
 u38	r7	r15	r22	r23				
