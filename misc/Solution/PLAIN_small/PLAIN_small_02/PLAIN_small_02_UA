@@ -10,57 +10,57 @@
 #     of the considered user. The following values rx correspond to 
 #     the roles set of that user.
 #  
-# Number of user: 40
-# Number of roles: 29
+# Number of user: 50
+# Number of roles: 27
 
 
-u0	r13	r22
-u1	r13	r16	r19
-u2	r10	r11	r12	r14	r15	r19	r26	r27
-u3	r4	r10	r13	r14	r16	r17	r22	r25
-u4	r1	r15	r17	r20	r22
-u5	r6	r8	r12	r13	r21	r22	r23	r28
-u6	r0	r13	r26	r27
-u7	r3	r6	r7	r15	r16	r17	r21	r23
-u8	r0	r1	r3	r6	r14	r15	r26
-u9	r6	r8	r13	r17	r21	r23	r26
-u10	r7	r12	r17
-u11	r2	r6	r10	r12	r19	r27
-u12	r5	r9	r15	r19	r22	r23	r24
-u13	r7	r9	r19	r25
-u14	r2	r6	r19	r24
-u15	r8	r13	r24	r27
-u16	r9	r16	r21	r27
-u17	r14	r19
-u18	r7	r12	r13	r14	r24
-u19	r3	r12	r16	r28
-u20	r16	r20	r21
-u21	r0	r2	r5	r6	r16	r19	r21	r24	r25
-u22	r5	r7	r12	r16	r17	r19	r21	r22	r25	r28
-u23	r25
-u24	r5	r6	r8	r14	r21	r23	r26
-u25	r6	r15	r16	r19	r21	r23	r24
-u26	r0	r8	r19	r26	r27
-u27	r5	r7	r10	r16	r17	r20	r21	r28
-u28	r18	r26
-u29	r2	r6	r21	r24	r26
-u30	r5	r16	r20	r21	r27
-u31	r0	r4	r6	r9	r22	r23	r28
-u32	r6	r12	r16	r17	r20	r21	r23	r27
-u33	r3	r6	r15	r17	r20	r26	r28
-u34	r2	r7	r17	r22	r26
-u35	r9
-u36	r20	r24	r25
-u37	r0	r2	r4	r10	r12	r17	r19
-u38	r10	r16	r17	r21
-u39	r10	r11	r15	r17	r19	r26
-u40	r6	r21	r23	r26	r27
-u41	r4	r8	r11	r14	r16	r28
-u42	r10	r16	r28
-u43	r24	r25	r28
-u44	r22	r26
-u45	r3	r5	r12	r14	r19	r20	r23
-u46	r3	r6	r12	r20	r21	r23	r24	r25	r27	r28
-u47	r14	r27	r28
-u48	r16	r19	r20	r22	r25	r28
-u49	r8
+u0	r8	r11	0					
+u1	r11	r13	r23					
+u2	r13	r14	r15	r16	r17	r18	r21	r23
+u3	r2	r4	r7	r8	r10	r11	r15	r17
+u4	r2	r7	r8	r14	r24			
+u5	r0	r1	r8	r11	r16	r25		
+u6	r3	r11	r18	r21	r23			
+u7	r0	r7	r12	r14	r19	r23		
+u8	r2	r3	r4	r6	r9	r14	r17	r18
+u9	r0	r7	r11	r18	r23	r25		
+u10	r7	r12	r16					
+u11	r6	r13	r15	r16	r21			
+u12	r8	r9	r13	r14	r20	r26		
+u13	r10	r12	r13	r26				
+u14	r6	r9	r13					
+u15	r9	r11	r21	r25				
+u16	r21	r22	r23	r26				
+u17	r13	r17	0					
+u18	r9	r11	r12	r16	r17			
+u19	r1	r16	r19	r23				
+u20	r22	r23	r24					
+u21	r3	r6	r9	r10	r13	r20	r22	r23
+u22	r1	r7	r8	r10	r12	r13	r16	r20
+u23	r10	0	0					
+u24	r0	r17	r18	r20	r23	r25		
+u25	r0	r9	r13	r14	r23			
+u26	r3	r13	r18	r21	r23	r25		
+u27	r1	r4	r7	r15	r20	r23	r24	
+u28	r3	r5	r9	r18	r22	r23		
+u29	r6	r9	r18	r22	r23			
+u30	r20	r21	r22	r23	r24			
+u31	r0	r1	r2	r3	r8	r26		
+u32	r0	r7	r16	r21	r23	r24		
+u33	r1	r6	r7	r14	r18	r19	r23	r24
+u34	r6	r7	r8	r12	r18	r23		
+u35	r26	0	0					
+u36	r9	r10	r24					
+u37	r2	r3	r6	r7	r13	r15	r16	r22
+u38	r7	r15	r22	r23				
+u39	r7	r13	r14	r15	r18	r23		
+u40	r0	r18	r21	r23				
+u41	r1	r2	r4	r8	r17	r23	r25	
+u42	r1	r15	r23					
+u43	r1	r9	r10					
+u44	r8	r18	r23					
+u45	r5	r13	r16	r17	r24			
+u46	r0	r1	r9	r12	r16	r19	r21	r24
+u47	r1	r17	r21					
+u48	r1	r8	r10	r13	r23	r24		
+u49	r25	
