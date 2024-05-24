@@ -31,7 +31,6 @@ https://doi.org/10.1007/978-3-031-04148-8_6
 Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2023).   
 ***Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms.***    
 In: Proceedings of the 15th International Joint Conference on Computational Intelligence ECTA - Volume 1, 151-162, 2023 , Rome, Italy   
-DOI: 10.5220/0012153000003595   
 https://doi.org/10.5220/0012153000003595   
 ***
 
@@ -40,7 +39,6 @@ https://doi.org/10.5220/0012153000003595
 Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2021).    
 ***The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.***   
 In: Proceedings of the 13th International Joint Conference on Computational Intelligence (IJCCI 2021) - Volume 1: IJCCI}   
-DOI: 10.5220/0010654000003063
 https://doi.org/10.5220/0010654000003063
    
 Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).      
