@@ -19,17 +19,17 @@ For further information...
 
 
 Anderer, S., Scheuermann, B., Mostaghim, S., Bauerle, P., and Beil, M. (2021).    
-***RMPlib: A library of benchmarks for the role mining problem.***    
+**RMPlib: A library of benchmarks for the role mining problem.**    
 _In: Proceedings of the 26th ACM Symposium on Access Control Models and Technologies, SACMAT ’21, page 3–13, New York, NY, USA. Association for Computing Machinery._    
 _https://doi.org/10.1145/3450569.3463566_ 
 
 Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022).   
-***Evolutionary Algorithms for the Constrained Two-Level Role Mining Problem.***  
+**Evolutionary Algorithms for the Constrained Two-Level Role Mining Problem.**  
 _In: Evolutionary Computation in Combinatorial Optimization. EvoCOP 2022. Lecture Notes in Computer Science, vol 13222. Springer, Cham._   
 _https://doi.org/10.1007/978-3-031-04148-8_6_
 
 Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2023).   
-***Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms.***    
+**Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms.**    
 _In: Proceedings of the 15th International Joint Conference on Computational Intelligence ECTA - Volume 1, 151-162, 2023 , Rome, Italy_   
 _https://doi.org/10.5220/0012153000003595_   
 ***
@@ -37,12 +37,12 @@ _https://doi.org/10.5220/0012153000003595_
 *A methodology for utilizing the benchmark instances for the Dynamic Role Mining Problem is described here:   
 
 Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2021).    
-***The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.***   
+**The Dynamic Role Mining Problem: Role Mining in Dynamically Changing Business Environments.**   
 _In: Proceedings of the 13th International Joint Conference on Computational Intelligence (IJCCI 2021) - Volume 1: IJCCI}_   
 _https://doi.org/10.5220/0010654000003063_
    
 Anderer, S., Kempter, T., Scheuermann, B., and Mostaghim, S. (2023).      
-***Dynamic Optimization of Role Concepts for Role-Based Access Control Using Evolutionary Algorithms.***   
+**Dynamic Optimization of Role Concepts for Role-Based Access Control Using Evolutionary Algorithms.**   
 _In: SN Computer Science 4, 416._    
 _https://doi.org/10.1007/s42979-023-01805-1_   
 
