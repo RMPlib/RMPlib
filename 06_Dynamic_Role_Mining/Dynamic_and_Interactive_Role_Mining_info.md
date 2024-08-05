@@ -16,7 +16,7 @@ https://doi.org/10.1007/s42979-023-01805-1
 
 ***Interactive Role Mining***   
 
-The data sets in this folder contains the sets of good roles used for the experiments on interactive role mining based on the RMPlib benchmark instances **PLAIN_small_02**,  **PLAIN_small_05** and **PLAIN_medium_01** as described in:
+The data sets in this folder contain the sets of good roles used for the experiments on interactive role mining based on the RMPlib benchmark instances **PLAIN_small_02**,  **PLAIN_small_05** and **PLAIN_medium_01** as described in:
 
 Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2023).   
 ***Interactive Role Mining Including Expert Knowledge into Evolutionary Algorithms.***    
@@ -26,7 +26,7 @@ https://doi.org/10.5220/0012153000003595
 and
 
 Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2024). 
-***Survival Strategies for Evolutionary Role Mining Algorithms Using Expert Knowledge.***    
+***Survival Strategies for Evolutionary Role Mining Algorithms Using Expert Knowledge.***      
 In: Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA, 623–626.    
 https://doi.org/10.1145/3638530.3654183   
 
