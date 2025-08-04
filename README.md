@@ -28,9 +28,9 @@ Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022).
 _In: Evolutionary Computation in Combinatorial Optimization. EvoCOP 2022. Lecture Notes in Computer Science, vol 13222. Springer, Cham._   
 _https://doi.org/10.1007/978-3-031-04148-8_6_
 
-Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022). 
-**Mining Two-Level Role Concepts Using Evolutionary Algorithms**
-_SN Computer Science 6 (6), 563_
+Anderer, S., Schrader, F., Scheuermann, B., and Mostaghim, S. (2022).    
+**Mining Two-Level Role Concepts Using Evolutionary Algorithms**    
+_SN Computer Science 6 (6), 563_   
 _https://doi.org/10.1007/s42979-025-04046-6_
 
 Anderer, S., Justen, N., Scheuermann, B., and Mostaghim, S. (2023).   
